@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<img src="https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif" align="center" >
-
+<p align="center">
+<img src="https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif" >
+</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">
 Technologies and Languages </h2>
