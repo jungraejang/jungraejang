@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <p align="center">
 <img src="https://media.giphy.com/media/JaqcfZpNVefAH96KTz/giphy.gif" >
 </p>
