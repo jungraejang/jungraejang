@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif)
-<img src="https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif" >
+
+<img src="https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif" align="center" >
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">
