@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://media.giphy.com/media/hzJkwBxtuDEGQEvamT/giphy.gif)
 
 <h2 align="center">
 Technologies and Languages </h2>
