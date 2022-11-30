@@ -28,6 +28,5 @@ Technologies and Languages </h2>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-<h3> + many more! </h3>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
